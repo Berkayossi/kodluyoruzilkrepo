@@ -15,7 +15,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
   ```cd kodluyoruzilkrepo
 
-   code .```
+   code .
+   ```
 
   ## Contributing
    Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
