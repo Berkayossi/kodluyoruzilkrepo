@@ -13,7 +13,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
   Linux için:
 
-  ```cd kodluyoruzilkrepo
+  ```
+  cd kodluyoruzilkrepo
 
    code .
    ```
